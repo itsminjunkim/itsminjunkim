@@ -1,18 +1,11 @@
-## Hi there 👋
-KIMMINJUN GIT HUB
+# HELLO THERE 
+THIS IS MINJUN GITHUB
+
+## My Activity
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsminjunkim&layout=compact)
-<!--
-**itsminjunkim/itsminjunkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | project period | language |
+|------|---|---|
+| CheckFit | 2024.06.27 ~ 2024.07.10 | Android App |
+| TodayOn | 2024.10.10 ~ ing |Android App|
